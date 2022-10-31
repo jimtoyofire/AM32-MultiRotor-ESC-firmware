@@ -35,7 +35,7 @@
 #define FIRMWARE_NAME           "FD6288_PA2  "
 #define DEAD_TIME               45
 #define HARDWARE_GROUP_F0_A
-//#define TARGET_VOLTAGE_DIVIDER  65
+#define TARGET_VOLTAGE_DIVIDER  65
 #define USE_SERIAL_TELEMETRY
 #endif
 
