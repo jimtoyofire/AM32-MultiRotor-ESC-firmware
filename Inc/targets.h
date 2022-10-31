@@ -1,7 +1,7 @@
 
 
 #ifndef USE_MAKE
-//#define FD6288
+#define FD6288
 //#define IFLIGHT
 //#define MP6531
 //#define TMOTOR55     // like iflight but with leds
@@ -16,7 +16,7 @@
 //#define AM32REF
 //#define BLPWR
 //#define HVFLYCOLOR
-#define NEUTRON_G071
+//#define NEUTRON_G071
 //#define G071_64K
 //#define G071ENABLE
 //#define G071_OPEN_DRAIN
